@@ -18,6 +18,7 @@
     stage.append(loader); loaderText = loader.querySelector('.launch-status'); retry = loader.querySelector('button');
   }
   const games = {
+    'concert-chaos': {title:'Concert Chaos',url:'https://cel23010997.github.io/concert-chaos/',note:'Browser recreation · Drag to look · 2: crowd · Controls guide inside'},
     'astral-siege': {title:'Astral Siege',url:'https://Cel23010997.github.io/astral-siege/',note:'Full C++ game port · Mouse controls · Desktop recommended'},
     'guild-up': {title:'GuildUp!',url:'https://Cel23010997.github.io/guild-up/',note:'W A S D to move · E to interact · Local demo'},
     'order-n-chaos': {title:'Order N Chaos',url:'https://tanukifurhire.com/play/order-n-chaos/',note:'Team-hosted browser build'}
@@ -46,7 +47,7 @@
     }, 45000);
   }
   frame?.addEventListener('load', () => {
-    if (activeGame && activeGame !== 'astral-siege') showReady();
+    if (activeGame && !['astral-siege','concert-chaos'].includes(activeGame)) showReady();
   });
   frame?.addEventListener('error', () => {
     if (!activeGame) return;
