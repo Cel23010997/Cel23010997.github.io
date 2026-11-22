@@ -1,0 +1,63 @@
+Celeste Tong
+
+Portfolio  |  github.com/Cel23010997  |  LinkedIn
+
+Summary
+
+Design Intern candidate combining Figma, interaction design and JavaScript/C++ to build interactive prototypes and clear user flows. I bring product concept development, iteration through player feedback and a Business Management background.
+
+Projects
+
+GuildUp | Product concept and interactive prototype
+
+Owned GuildUp’s concept and overall design in a 2-person hackathon team; used mentor feedback to refine a guild-and-quest interface and delivered a task-management prototype, named a Top 5 finalist among 45 teams in its category.
+
+Flow | Consumer research and marketing concept | 2021
+
+Owned research and positioning for an individual footwear-marketing assignment; analysed 32 survey responses, used style and quality findings to develop a floral concept, and delivered 2 shoe variants, a brochure and a digital promotional mock-up.
+
+ARMY Bomb Ver. 3 | Promotional communication | 2021
+
+Created 2 promotional deliverables for an individual 2–3-minute presentation brief; edited sourced footage in Adobe Premiere Pro with timed captions and deliberate pacing, and designed an Instagram-style promotional graphic.
+
+Current Studio 300 team project | C# | In progress
+
+Developing C# gameplay and interface systems for an unreleased team project; to keep interface feedback aligned with shared game state, refined state integration and exit/reset handling across 2 codebases: client and server. This work is in the current development branch.
+
+The Last Bloom | Unreal Engine 5, Blueprints | Jul–Aug 2026
+
+Designed and built 3 level areas in Unreal Engine 5; when player feedback exposed navigation problems, revised pathways and visual cues and delivered the updated playable level.
+
+Education
+
+Singapore Institute of Technology and DigiPen Institute of Technology
+
+BSc (Hons) Computer Science in Interactive Media and Game Development
+
+Aug 2024–expected Apr 2028
+
+Internship availability: 3 May 2027–9 April 2028
+
+Nanyang Polytechnic | Apr 2021–May 2024
+
+Diploma in Business Management; Human Resources and Event Management specialisation
+
+Skills
+
+Design: Figma, interaction design, prototyping, visual hierarchy, user feedback and iteration
+
+Business: Consumer research, market segmentation, product positioning, documentation
+
+Creative media: Adobe Premiere Pro (academic video editing)
+
+Development: C++, JavaScript, Lua, C#, HTML/CSS, Unreal Engine, Blueprints, ImGui, Node.js, Git
+
+Experience
+
+Adecco Singapore | Usher, part-time | Apr 2024–present
+
+Support patrons, ticket scanning and queue management; coordinate with event staff as priorities change.
+
+I-LINKHR PTE LTD | Human Resources Intern | May–Aug 2023
+
+Supported recruitment, payroll-data administration, reporting and process documentation.

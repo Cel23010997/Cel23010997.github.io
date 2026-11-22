@@ -1,0 +1,59 @@
+Celeste Tong
+
+Portfolio  |  github.com/Cel23010997  |  LinkedIn
+
+Summary
+
+Game Development Intern candidate with C++ game-state systems, ImGui editor tools and Lua player-guidance experience. I have contributed to 5-person and 9-person team games, with work spanning screen flows, animation tooling and level iteration.
+
+Projects
+
+Order N Chaos | C++, Lua, ImGui | Sep 2025–Apr 2026
+
+Built scene-hierarchy and animation tools for a 9-person team’s custom C++ engine; integrated ImGui controls with sprite-sheet slicing, state editing, preview and export so the workflows ran inside the team’s editor.
+
+Astral Siege | C++, Alpha Engine
+
+Implemented screens and state transitions for a 5-person C++ game; addressed stale restart state and repeated mesh cleanup by resetting the HUD counter and guarding released mesh slots in the game’s reset and shutdown paths.
+
+Current Studio 300 team project | C# | In progress
+
+Developing C# gameplay and interface systems for an unreleased team project; to keep interface feedback aligned with shared game state, refined state integration and exit/reset handling across 2 codebases: client and server. This work is in the current development branch.
+
+The Last Bloom | Unreal Engine 5, Blueprints | Jul–Aug 2026
+
+Designed and built 3 level areas in Unreal Engine 5; when player feedback exposed navigation problems, revised pathways and visual cues and delivered the updated playable level.
+
+MRT Kiosk Simulation | Unreal Engine, Blueprints | In progress
+
+Owned 2 kiosk functions—map search and the top-up calculator—within the team’s existing screen designs; used Blueprints to connect search and number-entry interactions in the current build. Audio integration remains unfinished.
+
+Education
+
+Singapore Institute of Technology and DigiPen Institute of Technology
+
+BSc (Hons) Computer Science in Interactive Media and Game Development
+
+Aug 2024–expected Apr 2028
+
+Internship availability: 3 May 2027–9 April 2028
+
+Nanyang Polytechnic | Apr 2021–May 2024
+
+Diploma in Business Management; Human Resources and Event Management specialisation
+
+Skills
+
+Design: Figma, interaction design, prototyping, visual hierarchy, user feedback and iteration
+
+Development: C++, JavaScript, Lua, C#, HTML/CSS, Unreal Engine, Blueprints, ImGui, Node.js, Git
+
+Experience
+
+Adecco Singapore | Usher, part-time | Apr 2024–present
+
+Support patrons, ticket scanning and queue management; coordinate with event staff as priorities change.
+
+I-LINKHR PTE LTD | Human Resources Intern | May–Aug 2023
+
+Supported recruitment, payroll-data administration, reporting and process documentation.

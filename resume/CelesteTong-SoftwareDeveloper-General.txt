@@ -1,0 +1,55 @@
+Celeste Tong
+
+Portfolio  |  github.com/Cel23010997  |  LinkedIn
+
+Summary
+
+Software Engineering Intern candidate with C++, JavaScript and Lua experience building developer tools, interactive interfaces and game systems. I connect product ideas to working implementations, from GuildUp’s task-management prototype to animation and hierarchy tools for a 9-person team’s C++ engine.
+
+Projects
+
+Order N Chaos | C++, Lua, ImGui | Sep 2025–Apr 2026
+
+Built scene-hierarchy and animation tools for a 9-person team’s custom C++ engine; integrated ImGui controls with sprite-sheet slicing, state editing, preview and export so the workflows ran inside the team’s editor.
+
+GuildUp | Product concept and interactive prototype
+
+Owned GuildUp’s concept and overall design in a 2-person hackathon team; used mentor feedback to refine a guild-and-quest interface and delivered a task-management prototype, named a Top 5 finalist among 45 teams in its category.
+
+Current Studio 300 team project | C# | In progress
+
+Developing C# gameplay and interface systems for an unreleased team project; to keep interface feedback aligned with shared game state, refined state integration and exit/reset handling across 2 codebases: client and server. This work is in the current development branch.
+
+MRT Kiosk Simulation | Unreal Engine, Blueprints | In progress
+
+Owned 2 kiosk functions—map search and the top-up calculator—within the team’s existing screen designs; used Blueprints to connect search and number-entry interactions in the current build. Audio integration remains unfinished.
+
+Education
+
+Singapore Institute of Technology and DigiPen Institute of Technology
+
+BSc (Hons) Computer Science in Interactive Media and Game Development
+
+Aug 2024–expected Apr 2028
+
+Internship availability: 3 May 2027–9 April 2028
+
+Nanyang Polytechnic | Apr 2021–May 2024
+
+Diploma in Business Management; Human Resources and Event Management specialisation
+
+Skills
+
+Design: Figma, interaction design, prototyping, visual hierarchy, user feedback and iteration
+
+Development: C++, JavaScript, Lua, C#, HTML/CSS, Unreal Engine, Blueprints, ImGui, Node.js, Git
+
+Experience
+
+Adecco Singapore | Usher, part-time | Apr 2024–present
+
+Support patrons, ticket scanning and queue management; coordinate with event staff as priorities change.
+
+I-LINKHR PTE LTD | Human Resources Intern | May–Aug 2023
+
+Supported recruitment, payroll-data administration, reporting and process documentation.
